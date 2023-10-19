@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     fontSize:18,
     fontWeight:'bold',
     textAlign:'left',
-    marginVertical:6
+    marginVertical:7
   },
   price:{
     fontSize:18,
